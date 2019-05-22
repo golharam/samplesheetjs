@@ -1,12 +1,12 @@
 {
 "name": "@golharr/samplesheetjs",
-"version": "0.0.1",
+"version": "0.0.2",
 "description": "Illumina Samplesheet Parser",
 "license": "MIT",
 "repository": "golharam/samplesheetjs",
 "main": "index.js",
 "keywords": [
     "illumina",
-    "samplesheet",
+    "samplesheet"
   ]
 }
